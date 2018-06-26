@@ -1,5 +1,5 @@
 class Anything
-	attr_accessor :a
+	attr_reader :a
   def foo
     @a = 5
   end
