@@ -2,8 +2,8 @@ class Car
   attr_accessor :model, :year
 
   def initialize(model, year)
-  @model = model
-  @year = year
+    @model = model
+    @year = year
   end
 end
 

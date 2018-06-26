@@ -28,7 +28,7 @@ any.foo
 any.bar
 any.a
 ~~~
-
+   
 ## Ejercicio 2: Sintaxis.
 Corrige el siguiente código para instanciar el objeto y generar la salida de manera correcta.
 
